@@ -91,7 +91,7 @@ Now I am going to use php_cgi_arg_injection argument for http exploit.
 Now everything is ready to begin to exploit.
 
 16. Lets exploit.
-![nmap](/caps/cap1/Machine_ip%20(10.3.21.140)/evidences/exploitation/exploit_httpServer_using_metasploit/step13.png)
+![nmap](/caps/cap1/Machine_ip%20(10.3.21.140)/evidences/exploitation/exploit_httpServer_using_metasploit/step13_exploit.png)
 So boom, I have got into the machine. I can see it’s metasploitable and running in linux 2.6.24-16-server. Now I have full control of that machine. Technically we compromise the machine.
 
 With this step, I can exploit every port that is open, I just need to use the correct auxiliary and the exploit module. As a sample I exploit ssh also and evidence is pushed in github.
